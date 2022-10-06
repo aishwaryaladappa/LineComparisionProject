@@ -5,11 +5,7 @@ namespace LineComparisionProblem
     {
         public static void Main(string[] args)
         {
-
-
-            LengthOfLine.CalculateLengthOfLine();
-            LineEquality.CheckEqualityOfLines();
-            CompareLengthOfTwoLine.CheckEqualityOfLines();
+            Console.WriteLine("welcome to line comparision problem");
         }
 
     }
